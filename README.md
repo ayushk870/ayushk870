@@ -1,19 +1,27 @@
 ![logo](https://github.com/ayushk870/ayushk870/blob/main/ss19.JPG)
 
 <h1 align="center">Hi 👋, I'm Ayush Kesarwani</h1>
-<h3 align="center">A Passionate Mathematician & Data Analyst from India</h3>
+<h3 align="center">A Postgraduate Mathematician & Passionate Data Analyst from India</h3>
 
 <img align="right" alt="coding" witdh="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1OWcwOWplcjhmeXkzNmNrcmJkeTV0Y2h6ZGR1cWwzcTVkdTFnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CyNUoqEF1f91C/giphy.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushk870&label=Profile%20views&color=0e75b6&style=flat" alt="ayushk870" /> </p>
 
-- 🌱 I’m currently learning Bachelor of Laws **LL.B.**
+- 🌱 I’m currently learning **Data Analytics & Machine Learning**
 
+- 📊 Completed Certificates On [Google Data Analytics](https://www.linkedin.com/posts/ayush-kesarwani-913832233_certificates-with-their-verification-link-activity-7181263570733527041-EoTM?utm_source=share&utm_medium=member_desktop)
+
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1sHGbgYvzg_wHfF8YNz7NDo3tjlGZo5rO](https://drive.google.com/drive/folders/1sHGbgYvzg_wHfF8YNz7NDo3tjlGZo5rO)
+
+- 🎓 Completed B.Sc(Computer Applications) & M.Sc(Mathematics) **University Of Allahabad (Also Known As Oxford of East)**
+- 🎓 Completed Bachelor Of Education In Science Training & Teaching **Prof. Rajendra Singh Universiyt Prayagraj**
+- 🎓 Pursuing Bachelor of Law (Law of Crimes) **Prof. Rajendra Singh Universiyt Prayagraj**
 - 📫 How to reach me **ayushk87077@gmail.com**
 
 - 📄 Know about my experiences [in/ayush-kesarwani-913832233](in/ayush-kesarwani-913832233)
 
-- ⚡ Fun fact **I Think I'm Funny**
+- ⚡ I'm Proficient In **Power Bi, Excel, Power Automate, Path Ui**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
