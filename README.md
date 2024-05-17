@@ -15,8 +15,8 @@
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1sHGbgYvzg_wHfF8YNz7NDo3tjlGZo5rO](https://drive.google.com/drive/folders/1sHGbgYvzg_wHfF8YNz7NDo3tjlGZo5rO)
 
 - 🎓 Completed B.Sc(Computer Applications) & M.Sc(Mathematics) **University Of Allahabad (Also Known As Oxford of East)**
-- 🎓 Completed Bachelor Of Education In Science Training & Teaching **Prof. Rajendra Singh Universiyt Prayagraj**
-- 🎓 Pursuing Bachelor of Law (Law of Crimes) **Prof. Rajendra Singh Universiyt Prayagraj**
+- 🎓 Completed Bachelor Of Education In Science Training & Teaching **Prof. Rajendra Singh University Prayagraj**
+- 🎓 Pursuing Bachelor of Law (Law of Crimes) **Prof. Rajendra Singh University Prayagraj**
 - 📫 How to reach me **ayushk87077@gmail.com**
 
 - 📄 Know about my experiences [in/ayush-kesarwani-913832233](in/ayush-kesarwani-913832233)
